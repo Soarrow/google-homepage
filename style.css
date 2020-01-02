@@ -1,0 +1,19 @@
+
+#main input{
+    width: 1139px;
+    border-radius: 20px;
+    border-width: 1px;
+    height: 27px;
+    margin: 0 auto;
+}
+
+#head a {
+    font-size: small;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    
+}
+
+.link:hover{
+    text-decoration: underline;
+}
