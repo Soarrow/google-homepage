@@ -1,5 +1,5 @@
 
-#main input{
+.searchbar input{
     width: 1139px;
     border-radius: 20px;
     border-width: 1px;
@@ -11,9 +11,32 @@
     font-size: small;
     font-family: Arial, sans-serif;
     text-decoration: none;
-    
+    margin: 5px;
+}
+
+#top-right{
+    float: right;
+    margin: 5px
+}
+
+#head button{
+    background: #4484f1;
+    color: white;
+    padding: 5px;
+}
+
+#footer a{
+    font-size: small;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    margin: 5px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
 }
 
 .link:hover{
     text-decoration: underline;
 }
+
+
