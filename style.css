@@ -3,7 +3,7 @@
     width: 1139px;
     border-radius: 20px;
     border-width: 1px;
-    height: 27px;
+    height: 40px;
     margin: 0 auto;
 }
 
@@ -26,6 +26,7 @@
 }
 
 #footer {
+    position: absolute;
     bottom: 0;
 }
 
@@ -40,4 +41,22 @@
     text-decoration: underline;
 }
 
+.googlelogo{
+    margin: 50px auto 20px;
+    width: 20em;
+    display: block;
+    clear: both;
+}
 
+.searchbar{
+    text-align: center;
+}
+
+#actualsearchbar:hover{
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.19);
+}
+
+.button{
+    margin: 20px;
+    text-align: center;
+}
